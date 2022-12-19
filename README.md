@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Using JobSkillShare's virtual lab, I will be providing step-by-step instructions of how to take an unjoined local computer (PLABWIN101) and add it to an exisitng domain(PRACTICELABS.COM).If a computer is a part of domain, a domain will be listed.If not, you may see Window's default option: WORKGROUP. Unlike a domain, a WORKGROUP is a collection of unmanaged computers on a local network. It is important that we join PLABWIN101 on the domain so that it can use the services provided by our server (Windows Server 2019 Domain Controller).
+Using JobSkillShare's virtual lab, I will be joining local computer (PLABWIN101) to an exisitng domain(PRACTICELABS.COM).If a computer is not part of a domain, you may see Window's default option: WORKGROUP. Unlike a domain, a computer listed under a WORKGROUP is not managed by a server.We join PLABWIN101 on the PRACTICELABS domain so that the controller (Windows Server 2019 Domain Controller) grants it permission to use certain programs and configurations.
 <br />
 
 
@@ -11,7 +11,7 @@ Using JobSkillShare's virtual lab, I will be providing step-by-step instructions
 
 - <b>Windows 10 standalone client workstation, PLABWIN101</b> 
 - <b>Windows Server 2019 Domain Controller, PLABDC01</b>
-- <b>Powershell
+- <b>Command Prompt, cmd
 
 <h2>Environments Used </h2>
 
