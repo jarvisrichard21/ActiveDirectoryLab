@@ -24,7 +24,7 @@ Run Windows 10's command prompt on PLABWIN101 and type systeminfo: <br/>
 <img src="https://i.imgur.com/IwgAEph.png" height="80%" width="80%" alt="Open Command Prompt"/>
 <br />
 <br />
-PLABWIN101 is on WORKGROUP, not in domain.  :  <br/>
+PLABWIN101 is on WORKGROUP, not in domain:<br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Domain Check"/>
 <br />
 <br />
