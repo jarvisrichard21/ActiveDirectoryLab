@@ -25,7 +25,7 @@ Run Windows 10's command prompt on PLABWIN101 and type systeminfo: <br/>
 <br />
 <br />
 PLABWIN101 is on WORKGROUP, not in domain:<br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Domain Check"/>
+<![AKy0iIb](https://user-images.githubusercontent.com/115846055/208548012-6905140a-fc23-4062-aa2e-868e97d897ac.png) height="80%" width="80%" alt="Domain Check"/>
 <br />
 <br />
 Enter the number of passes: <br/>
