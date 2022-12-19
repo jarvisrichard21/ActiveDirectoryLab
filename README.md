@@ -1,4 +1,4 @@
-<h1><a href"https://github.com/jarvisrichard21/Adding a computer to an existing domain"</a>"Adding a computer to an existing domain"</h1>
+<h1><a href"https://github.com/jarvisrichard21/Adding%20a%20computer%20to%20an%20existing%20domain"Adding a computer to an exisitng domain</a></h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
