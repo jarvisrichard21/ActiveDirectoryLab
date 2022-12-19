@@ -21,19 +21,19 @@ Using JobSkillShare's virtual lab, I will be joining local computer (PLABWIN101)
 
 <p align="center">
 Run Windows 10's command prompt on PLABWIN101 and type systeminfo: <br/>
-<img src="https://i.imgur.com/IwgAEph.png" height="50%" width="50%" alt="Open Command Prompt"/>
+<img src="https://i.imgur.com/IwgAEph.png" height=auto width="50%" alt="Open Command Prompt"/>
 <br />
 <br />
 PLABWIN101 is on WORKGROUP, not in domain:<br/>
-<img src="https://i.imgur.com/AKy0iIb.png" height="50%" wodth="50%" alt="domain check"/>
+<img src="https://i.imgur.com/AKy0iIb.png" height=auto width="50%" alt="domain check"/>
 <br />
 <br />
 Navigate to Control Panel > System and Security > System : <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="50%" width="50%" alt="Navigation"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height=auto width="70%" alt="Navigation"/>
 <br />
 <br />
 Confirm your selection:<br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height=auto width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
