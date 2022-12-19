@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Using JobSkillShare's virtual lab, I will be demonstrating how to take an unjoined local computer (PLABWIN101) and add it to an exisitng domain(PRACTICELABS.COM) 
+Using JobSkillShare's virtual lab, I will be demonstrating how to take an unjoined local computer (PLABWIN101) and add it to an exisitng domain(PRACTICELABS.COM). 
 <br />
 
 
@@ -20,11 +20,11 @@ Using JobSkillShare's virtual lab, I will be demonstrating how to take an unjoin
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Run Windows 10's command prompt and type systeminfo: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+If a computer is a part of domain, a domain will be listed.If not, you may see something called WORKGROUP. :  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
