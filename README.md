@@ -7,14 +7,15 @@ Using JobSkillShare's virtual lab, I will be demonstrating how to take an unjoin
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Windows 10 standalone client workstation, PLABWIN101</b> 
+- <b>Windows Server 2019 Domain Controller, PLABDC01</b>
+- <b>Powershell
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
