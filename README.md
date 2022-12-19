@@ -28,8 +28,8 @@ PLABWIN101 is on WORKGROUP, not in domain:<br/>
 <img src="https://i.imgur.com/AKy0iIb.png" height="50%" wodth="50%" alt="domain check"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Navigate to Control Panel > System and Security > System : <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="50%" width="50%" alt="Navigation"/>
 <br />
 <br />
 Confirm your selection:<br/>
