@@ -1,4 +1,4 @@
-<ul>
-  <li>Technical doc showing how to install Windows 11 Enterprise Edition. </li>
-</ul>
+Technical doc I created showing how to install Window 11 Enterprise Edition. This project
+takes advantage of virtualization technology.
+
 
