@@ -1,4 +1,4 @@
 <ul>
-  <li>Demonstration of Windows 11 Enterprise Edition install on a Virtual Machine using JSS Lab Platform. </li>
+  <liTechnical doc showing how to install Windows 11 Enterprise Edition. </li>
 </ul>
 
